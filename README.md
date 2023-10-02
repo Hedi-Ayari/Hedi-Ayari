@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hedi Ayari</h1>
-<h3 align="center">A Software Developer who is passionate about Backend Development And AI</h3>
+<h3 align="center">A Software Developer</h3>
 
 - 👯 I’m looking to collaborate on **MERN projects And AI projects**
 
