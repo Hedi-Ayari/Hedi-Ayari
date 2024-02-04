@@ -6,9 +6,10 @@
 
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 How to reach me **hediayari886@gmail.com**
 - 🤖 On a mission to code, create, and conquer! Let's build something awesome together!
 - 🎨 In my creative moments, you might find me designing in Photoshop and Adobe XD.
+- 📫 How to reach me **hediayari886@gmail.com**
+Keep coding and stay awesome! 🚀✨
 
 
 
