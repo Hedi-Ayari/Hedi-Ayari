@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is AYARI Hedi and I'm a Full Stack Developper, from Tunisia nothing facny</h2>
+<h2 align="left">Hi 👋! My name is AYARI Hedi and I'm a Full Stack Developper, from Tunisia Resident in romania nothing facny</h2>
 
 
 
