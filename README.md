@@ -9,7 +9,7 @@
 - 🤖 On a mission to code, create, and conquer! Let's build something awesome together or let s try!
 - 📫 How to reach me **hediayari886@gmail.com**
   <br>  <br>  <br>
-  **Keep coding and stay awesome it's hard to do both but let's give it a shot ;)**
+  **let s try to stay alive ;)**
 
 
 
